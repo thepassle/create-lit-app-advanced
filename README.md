@@ -81,8 +81,8 @@ Clone/fork the [create-lit-app-advanced repo](https://www.github.com/thepassle/c
 ## Quickstart
 
 ```sh
-npm install --global create-lit-app
-create-lit-app my-app
+npm install --global create-lit-app-advanced
+create-lit-app-advanced my-app
 
 cd my-app
 npm start
@@ -120,7 +120,7 @@ As easy as that! Your app is ready to be deployed.
 After creation, your project should look like this:
 
 ```
-create-lit-app/
+create-lit-app-advanced/
   README.md
   dist/
   node_modules/
