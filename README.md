@@ -77,6 +77,7 @@ Clone/fork the [create-lit-app-advanced repo](https://www.github.com/thepassle/c
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [Further reading](#further-reading)
+- [Acknowledgements](#acknowledgements)
 
 ## Quickstart
 
@@ -1453,3 +1454,8 @@ We'd love to have your helping hand on create-lit-app! Feel free to create a pul
 ## Further reading
 * [Redux](https://redux.js.org/introduction)
 * [Making a fullstack app with lit](https://medium.com/@pascalschilp/making-a-fullstack-crud-app-with-lithtml-redux-express-and-webpack-fe7e5cf8b3ef)
+
+## Acknowledgements
+
+* Owen Buckley of [Project Evergreen](https://projectevergreen.github.io/)
+* [Web-padawan](https://github.com/web-padawan)
