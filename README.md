@@ -141,7 +141,7 @@ create-lit-app-advanced/
       redux-demo.js
     reducers/
       count.js
-    AppStyles.js
+    lit-app-styles.css
     index.html
     lit-app.js
     store.js
