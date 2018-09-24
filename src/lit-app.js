@@ -1,5 +1,5 @@
 import { LitElement, html } from '@polymer/lit-element/';
-import { AppStyles } from './AppStyles';
+import styles from './lit-app-styles.css';
 
 import { Router } from '@vaadin/router';
 
@@ -23,7 +23,9 @@ class LitApp extends LitElement {
 
 	render() {
 		return html`
-			${AppStyles}
+			<style>
+				${styles}
+			</style>
 			<div class="app">
 				<header class="app-header">
 					<img src="../assets/logo.svg" class="app-logo" alt="logo" />
