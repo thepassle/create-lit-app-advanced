@@ -1505,7 +1505,7 @@ VDOM implementations keep a separate JavaScript structure representing the DOM s
 
 While this method is effective, it does mean a lot of excessive processing is done. Lit-html leverages the ECMAScript ES6 tagged template literals feature to use native browser rendering engine implementations to perform the same task. 
 
-### Whats the difference between map and repeat?
+### Whats the difference between map and repeat?
 
 If you expect to the order of elements to change (swapping position of elements, deleting elements within the array) use `repeat`. If your array length never changes, or if you only append to to it use `map`.
 If you have an array `[a,b,c]`, `map` will render 3 nodes. When when you change the array to `[b,a,c]` the dom nodes stay in the same position but the data passed to the nodes changes
