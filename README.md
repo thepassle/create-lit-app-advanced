@@ -166,12 +166,12 @@ create-lit-app-advanced/
 
 ## Redux
 
-Check out the [create-lit-app-advanced repo](https://stackblitz.com/edit/create-lit-app) for a full example.
+Check out the [create-lit-app-advanced repo](https://github.com/thepassle/create-lit-app-advanced) for a full example.
 
 ## Routing
 
 Create-lit-app-advanced uses [Vaadin Router](https://github.com/vaadin/vaadin-router) for its routing.
-Check out the [create-lit-app-advanced repo](https://stackblitz.com/edit/create-lit-app) for a full example.
+Check out the [create-lit-app-advanced repo](https://github.com/thepassle/create-lit-app-advanced) for a full example.
 
 ## Decorators
 
@@ -222,7 +222,7 @@ proxy: {
   },
 ```
 
-Check out the [create-lit-app-advanced repo](https://stackblitz.com/edit/create-lit-app) for a full example.
+Check out the [create-lit-app-advanced repo](https://github.com/thepassle/create-lit-app-advanced) for a full example.
 
 ## Usage
 
