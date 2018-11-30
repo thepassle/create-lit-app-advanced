@@ -8,7 +8,7 @@ import { store } from '../store.js';
 class ReduxDemo extends connect(store)(LitElement) {
 	static get properties() {
 		return {
-			count: Number
+			count: { type: Number }
 		};
 	}
 

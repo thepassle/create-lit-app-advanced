@@ -3,7 +3,7 @@ import { LitElement, html } from '@polymer/lit-element/';
 class BooksDemo extends LitElement {
 	static get properties() {
 		return {
-			books: Array
+			books: { type: Array }
 		};
 	}
 
